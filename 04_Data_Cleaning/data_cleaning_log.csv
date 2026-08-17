@@ -1,0 +1,4 @@
+IssueID,SubjectID,Domain,Field,ObservedValue,Rule_or_Observation,Recommended_Action,Status
+DC-001,SUBJ-005,Demographics,Age,66,Eligibility age is 18-65,Raise query to confirm source data and eligibility,Open
+DC-002,SUBJ-009,AE,EndDate,Blank,Outcome is Ongoing so blank end date may be appropriate,Confirm ongoing status; no correction if verified,Review
+DC-003,SUBJ-005,Randomization,Age,66,Potential protocol deviation if eligibility confirmed,Escalate after source verification,Open
