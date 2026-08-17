@@ -1,0 +1,4 @@
+QueryID,SubjectID,Domain,Field,QueryText,Status
+Q-001,SUBJ-005,Demographics,Age,Participant age is 66. Please confirm source data and eligibility against the protocol.,Open
+Q-002,SUBJ-003,AE,Relatedness,Please confirm the relationship between dizziness and study treatment.,Open
+Q-003,SUBJ-009,AE,EndDate,Outcome is Ongoing. Please confirm that no end date is available.,Answered
