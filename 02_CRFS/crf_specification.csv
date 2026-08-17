@@ -1,0 +1,15 @@
+Form,Variable,Label,Data Type,Required,Controlled/Validation Rule
+Demographics,SUBJID,Subject ID,Text,Yes,Unique subject identifier
+Demographics,AGE,Age,Numeric,Yes,18-65 years for eligibility
+Demographics,SEX,Sex,Text,Yes,Male/Female
+Randomization,ARM,Treatment Arm,Text,Yes,CardioPress/Placebo
+Vitals,VISIT,Visit,Text,Yes,Baseline/Week 4/Week 8/Week 12
+Vitals,SBP,Seated systolic BP,Numeric,Yes,Positive numeric value; mmHg
+Vitals,DBP,Seated diastolic BP,Numeric,Yes,Positive numeric value; mmHg
+Vitals,PULSE,Pulse rate,Numeric,Yes,Positive numeric value; bpm
+Adverse Events,AETERM,Adverse Event Term,Text,Yes,Verbatim reported term
+Adverse Events,AESEV,Severity,Text,Yes,Mild/Moderate/Severe
+Adverse Events,AEREL,Relatedness,Text,Yes,Not Related/Possibly Related/Probably Related
+Adverse Events,AEOUT,Outcome,Text,Yes,Resolved/Ongoing/Resolved with Sequelae
+Adverse Events,AESTDT,Start Date,Date,Yes,Valid date
+Adverse Events,AEENDT,End Date,Date,Conditional,Required when outcome is Resolved
