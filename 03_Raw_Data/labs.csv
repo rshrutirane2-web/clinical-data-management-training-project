@@ -1,0 +1,21 @@
+SubjectID,Visit,ALT_U_L,Creatinine_mg_dL,Hemoglobin_g_dL
+SUBJ-001,Baseline,92,0.9,14.1
+SUBJ-001,Week 12,88,0.9,13.8
+SUBJ-002,Baseline,95,1.0,15.0
+SUBJ-002,Week 12,96,1.0,14.8
+SUBJ-003,Baseline,101,0.8,15.2
+SUBJ-003,Week 12,98,0.9,15.0
+SUBJ-004,Baseline,89,0.9,13.7
+SUBJ-004,Week 12,90,0.9,13.6
+SUBJ-005,Baseline,110,1.1,15.4
+SUBJ-005,Week 12,105,1.0,15.0
+SUBJ-006,Baseline,94,0.9,14.0
+SUBJ-006,Week 12,93,0.9,13.9
+SUBJ-007,Baseline,87,0.8,13.5
+SUBJ-007,Week 12,85,0.8,13.3
+SUBJ-008,Baseline,99,1.0,15.1
+SUBJ-008,Week 12,100,1.0,15.0
+SUBJ-009,Baseline,103,1.0,15.6
+SUBJ-009,Week 12,99,1.0,15.3
+SUBJ-010,Baseline,91,0.9,13.8
+SUBJ-010,Week 12,90,0.9,13.7
