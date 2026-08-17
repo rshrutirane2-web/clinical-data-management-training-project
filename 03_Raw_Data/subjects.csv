@@ -1,0 +1,11 @@
+StudyID,SubjectID,Country,Treatment,Age,Sex,ConsentDate,RandomizationDate,Status
+HTN-CDM-001,SUBJ-001,India,CardioPress,54,Female,2026-01-05,2026-01-06,Randomized
+HTN-CDM-001,SUBJ-002,India,Placebo,61,Male,2026-01-06,2026-01-07,Randomized
+HTN-CDM-001,SUBJ-003,India,CardioPress,47,Male,2026-01-08,2026-01-09,Randomized
+HTN-CDM-001,SUBJ-004,India,Placebo,39,Female,2026-01-09,2026-01-10,Randomized
+HTN-CDM-001,SUBJ-005,India,CardioPress,66,Male,2026-01-10,2026-01-11,Randomized
+HTN-CDM-001,SUBJ-006,India,Placebo,52,Female,2026-01-12,2026-01-13,Randomized
+HTN-CDM-001,SUBJ-007,India,CardioPress,44,Female,2026-01-14,2026-01-15,Randomized
+HTN-CDM-001,SUBJ-008,India,Placebo,58,Male,2026-01-15,2026-01-16,Randomized
+HTN-CDM-001,SUBJ-009,India,CardioPress,50,Male,2026-01-17,2026-01-18,Randomized
+HTN-CDM-001,SUBJ-010,India,Placebo,29,Female,2026-01-18,2026-01-19,Randomized
