@@ -1,0 +1,11 @@
+SubjectID,Treatment,Baseline_SBP,Week12_SBP,SBP_Reduction
+SUBJ-001,CardioPress,154,132,22
+SUBJ-002,Placebo,151,148,3
+SUBJ-003,CardioPress,160,135,25
+SUBJ-004,Placebo,148,145,3
+SUBJ-005,CardioPress,156,130,26
+SUBJ-006,Placebo,153,149,4
+SUBJ-007,CardioPress,149,129,20
+SUBJ-008,Placebo,155,151,4
+SUBJ-009,CardioPress,158,131,27
+SUBJ-010,Placebo,150,147,3
