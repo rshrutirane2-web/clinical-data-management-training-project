@@ -1,0 +1,10 @@
+SourceDomain,SourceVariable,SDTMVariable,SDTMDomain,Purpose
+Subjects,SubjectID,USUBJID,DM,Unique subject identifier
+Subjects,Sex,SEX,DM,Sex
+Subjects,Age,AGE,DM,Age at study entry
+Subjects,Treatment,ARM,DM,Planned treatment arm
+Vitals,SBP_mmHg,VSORRES,VS,Original systolic BP result
+Vitals,DBP_mmHg,VSORRES,VS,Original diastolic BP result; VS test code distinguishes measurement
+Adverse_Events,Term,AETERM,AE,Reported adverse event term
+Adverse_Events,Severity,AESEV,AE,Adverse event severity
+Adverse_Events,Relatedness,AEREL,AE,Relationship to study treatment
