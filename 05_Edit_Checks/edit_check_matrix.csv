@@ -1,0 +1,11 @@
+CheckID,Domain,Field,Logic,CheckType,Expected_Action
+EC-001,Demographics,Age,Age must be between 18 and 65 inclusive,Range,Query if outside range
+EC-002,Vitals,SBP_mmHg,SBP must be numeric and greater than 0,Range/Format,Query invalid value
+EC-003,Vitals,Visit,Visit must be Baseline/Week 4/Week 8/Week 12,Controlled terminology,Query invalid visit
+EC-004,AE,EndDate,End date required when Outcome is Resolved,Conditional,Query missing end date
+EC-005,AE,Severity,Severity must be Mild/Moderate/Severe,Controlled terminology,Query invalid value
+EC-006,Demographics/Randomization,RandomizationDate,Randomization date must be on or after ConsentDate,Date logic,Query date inconsistency
+EC-007,Vitals,SubjectID,Subject must exist in subject master,Referential integrity,Query orphan record
+EC-008,AE,StartDate,AE start date should not be before informed consent,Date logic,Query date inconsistency
+EC-009,AE,Relatedness,Relatedness must use protocol-defined values,Controlled terminology,Query invalid value
+EC-010,Vitals,SBP/DBP,SBP should be greater than DBP,Cross-field check,Query inconsistency
