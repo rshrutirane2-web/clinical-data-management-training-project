@@ -1,0 +1,6 @@
+SubjectID,AEID,Term,Severity,Relatedness,Outcome,StartDate,EndDate
+SUBJ-001,AE-001,Headache,Mild,Not Related,Resolved,2026-01-12,2026-01-14
+SUBJ-003,AE-002,Dizziness,Moderate,Possibly Related,Resolved,2026-01-20,2026-01-22
+SUBJ-005,AE-003,Nausea,Mild,Possibly Related,Resolved,2026-01-25,2026-01-27
+SUBJ-006,AE-004,Headache,Mild,Not Related,Resolved,2026-01-21,2026-01-23
+SUBJ-009,AE-005,Fatigue,Moderate,Possibly Related,Ongoing,2026-01-29,
