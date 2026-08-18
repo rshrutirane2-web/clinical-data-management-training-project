@@ -11,111 +11,111 @@ HTN-CDM-001,VS,HTN-CDM-001-SUBJ-001,9,8,Week 8,PULSE,Pulse Rate,78,beats/min
 HTN-CDM-001,VS,HTN-CDM-001-SUBJ-001,10,12,Week 12,SYSBP,Systolic Blood Pressure,132,mmHg
 HTN-CDM-001,VS,HTN-CDM-001-SUBJ-001,11,12,Week 12,DIABP,Diastolic Blood Pressure,84,mmHg
 HTN-CDM-001,VS,HTN-CDM-001-SUBJ-001,12,12,Week 12,PULSE,Pulse Rate,76,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,13,0,Baseline,SYSBP,Systolic Blood Pressure,151,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,14,0,Baseline,DIABP,Diastolic Blood Pressure,94,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,15,0,Baseline,PULSE,Pulse Rate,79,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,16,4,Week 4,SYSBP,Systolic Blood Pressure,150,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,17,4,Week 4,DIABP,Diastolic Blood Pressure,92,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,18,4,Week 4,PULSE,Pulse Rate,80,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,19,8,Week 8,SYSBP,Systolic Blood Pressure,149,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,20,8,Week 8,DIABP,Diastolic Blood Pressure,91,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,21,8,Week 8,PULSE,Pulse Rate,78,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,22,12,Week 12,SYSBP,Systolic Blood Pressure,148,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,23,12,Week 12,DIABP,Diastolic Blood Pressure,90,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,24,12,Week 12,PULSE,Pulse Rate,77,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,25,0,Baseline,SYSBP,Systolic Blood Pressure,160,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,26,0,Baseline,DIABP,Diastolic Blood Pressure,98,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,27,0,Baseline,PULSE,Pulse Rate,84,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,28,4,Week 4,SYSBP,Systolic Blood Pressure,146,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,29,4,Week 4,DIABP,Diastolic Blood Pressure,90,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,30,4,Week 4,PULSE,Pulse Rate,79,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,31,8,Week 8,SYSBP,Systolic Blood Pressure,139,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,32,8,Week 8,DIABP,Diastolic Blood Pressure,86,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,33,8,Week 8,PULSE,Pulse Rate,76,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,34,12,Week 12,SYSBP,Systolic Blood Pressure,135,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,35,12,Week 12,DIABP,Diastolic Blood Pressure,84,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,36,12,Week 12,PULSE,Pulse Rate,74,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,37,0,Baseline,SYSBP,Systolic Blood Pressure,148,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,38,0,Baseline,DIABP,Diastolic Blood Pressure,92,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,39,0,Baseline,PULSE,Pulse Rate,81,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,40,4,Week 4,SYSBP,Systolic Blood Pressure,147,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,41,4,Week 4,DIABP,Diastolic Blood Pressure,91,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,42,4,Week 4,PULSE,Pulse Rate,80,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,43,8,Week 8,SYSBP,Systolic Blood Pressure,146,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,44,8,Week 8,DIABP,Diastolic Blood Pressure,90,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,45,8,Week 8,PULSE,Pulse Rate,79,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,46,12,Week 12,SYSBP,Systolic Blood Pressure,145,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,47,12,Week 12,DIABP,Diastolic Blood Pressure,89,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,48,12,Week 12,PULSE,Pulse Rate,78,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,49,0,Baseline,SYSBP,Systolic Blood Pressure,156,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,50,0,Baseline,DIABP,Diastolic Blood Pressure,95,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,51,0,Baseline,PULSE,Pulse Rate,86,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,52,4,Week 4,SYSBP,Systolic Blood Pressure,143,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,53,4,Week 4,DIABP,Diastolic Blood Pressure,88,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,54,4,Week 4,PULSE,Pulse Rate,80,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,55,8,Week 8,SYSBP,Systolic Blood Pressure,136,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,56,8,Week 8,DIABP,Diastolic Blood Pressure,84,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,57,8,Week 8,PULSE,Pulse Rate,77,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,58,12,Week 12,SYSBP,Systolic Blood Pressure,130,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,59,12,Week 12,DIABP,Diastolic Blood Pressure,82,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,60,12,Week 12,PULSE,Pulse Rate,75,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,61,0,Baseline,SYSBP,Systolic Blood Pressure,153,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,62,0,Baseline,DIABP,Diastolic Blood Pressure,97,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,63,0,Baseline,PULSE,Pulse Rate,83,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,64,4,Week 4,SYSBP,Systolic Blood Pressure,152,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,65,4,Week 4,DIABP,Diastolic Blood Pressure,95,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,66,4,Week 4,PULSE,Pulse Rate,82,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,67,8,Week 8,SYSBP,Systolic Blood Pressure,150,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,68,8,Week 8,DIABP,Diastolic Blood Pressure,93,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,69,8,Week 8,PULSE,Pulse Rate,80,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,70,12,Week 12,SYSBP,Systolic Blood Pressure,149,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,71,12,Week 12,DIABP,Diastolic Blood Pressure,92,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,72,12,Week 12,PULSE,Pulse Rate,79,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,73,0,Baseline,SYSBP,Systolic Blood Pressure,149,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,74,0,Baseline,DIABP,Diastolic Blood Pressure,93,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,75,0,Baseline,PULSE,Pulse Rate,80,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,76,4,Week 4,SYSBP,Systolic Blood Pressure,140,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,77,4,Week 4,DIABP,Diastolic Blood Pressure,87,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,78,4,Week 4,PULSE,Pulse Rate,77,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,79,8,Week 8,SYSBP,Systolic Blood Pressure,134,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,80,8,Week 8,DIABP,Diastolic Blood Pressure,84,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,81,8,Week 8,PULSE,Pulse Rate,75,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,82,12,Week 12,SYSBP,Systolic Blood Pressure,129,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,83,12,Week 12,DIABP,Diastolic Blood Pressure,81,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,84,12,Week 12,PULSE,Pulse Rate,73,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,85,0,Baseline,SYSBP,Systolic Blood Pressure,155,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,86,0,Baseline,DIABP,Diastolic Blood Pressure,96,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,87,0,Baseline,PULSE,Pulse Rate,85,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,88,4,Week 4,SYSBP,Systolic Blood Pressure,154,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,89,4,Week 4,DIABP,Diastolic Blood Pressure,94,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,90,4,Week 4,PULSE,Pulse Rate,83,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,91,8,Week 8,SYSBP,Systolic Blood Pressure,153,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,92,8,Week 8,DIABP,Diastolic Blood Pressure,93,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,93,8,Week 8,PULSE,Pulse Rate,82,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,94,12,Week 12,SYSBP,Systolic Blood Pressure,151,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,95,12,Week 12,DIABP,Diastolic Blood Pressure,91,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,96,12,Week 12,PULSE,Pulse Rate,80,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,97,0,Baseline,SYSBP,Systolic Blood Pressure,158,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,98,0,Baseline,DIABP,Diastolic Blood Pressure,99,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,99,0,Baseline,PULSE,Pulse Rate,88,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,100,4,Week 4,SYSBP,Systolic Blood Pressure,145,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,101,4,Week 4,DIABP,Diastolic Blood Pressure,90,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,102,4,Week 4,PULSE,Pulse Rate,81,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,103,8,Week 8,SYSBP,Systolic Blood Pressure,137,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,104,8,Week 8,DIABP,Diastolic Blood Pressure,85,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,105,8,Week 8,PULSE,Pulse Rate,78,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,106,12,Week 12,SYSBP,Systolic Blood Pressure,131,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,107,12,Week 12,DIABP,Diastolic Blood Pressure,82,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,108,12,Week 12,PULSE,Pulse Rate,75,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,109,0,Baseline,SYSBP,Systolic Blood Pressure,150,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,110,0,Baseline,DIABP,Diastolic Blood Pressure,94,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,111,0,Baseline,PULSE,Pulse Rate,82,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,112,4,Week 4,SYSBP,Systolic Blood Pressure,149,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,113,4,Week 4,DIABP,Diastolic Blood Pressure,92,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,114,4,Week 4,PULSE,Pulse Rate,81,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,115,8,Week 8,SYSBP,Systolic Blood Pressure,148,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,116,8,Week 8,DIABP,Diastolic Blood Pressure,91,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,117,8,Week 8,PULSE,Pulse Rate,80,beats/min
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,118,12,Week 12,SYSBP,Systolic Blood Pressure,147,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,119,12,Week 12,DIABP,Diastolic Blood Pressure,90,mmHg
-HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,120,12,Week 12,PULSE,Pulse Rate,79,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,1,0,Baseline,SYSBP,Systolic Blood Pressure,151,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,2,0,Baseline,DIABP,Diastolic Blood Pressure,94,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,3,0,Baseline,PULSE,Pulse Rate,79,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,4,4,Week 4,SYSBP,Systolic Blood Pressure,150,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,5,4,Week 4,DIABP,Diastolic Blood Pressure,92,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,6,4,Week 4,PULSE,Pulse Rate,80,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,7,8,Week 8,SYSBP,Systolic Blood Pressure,149,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,8,8,Week 8,DIABP,Diastolic Blood Pressure,91,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,9,8,Week 8,PULSE,Pulse Rate,78,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,10,12,Week 12,SYSBP,Systolic Blood Pressure,148,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,11,12,Week 12,DIABP,Diastolic Blood Pressure,90,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-002,12,12,Week 12,PULSE,Pulse Rate,77,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,1,0,Baseline,SYSBP,Systolic Blood Pressure,160,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,2,0,Baseline,DIABP,Diastolic Blood Pressure,98,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,3,0,Baseline,PULSE,Pulse Rate,84,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,4,4,Week 4,SYSBP,Systolic Blood Pressure,146,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,5,4,Week 4,DIABP,Diastolic Blood Pressure,90,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,6,4,Week 4,PULSE,Pulse Rate,79,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,7,8,Week 8,SYSBP,Systolic Blood Pressure,139,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,8,8,Week 8,DIABP,Diastolic Blood Pressure,86,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,9,8,Week 8,PULSE,Pulse Rate,76,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,10,12,Week 12,SYSBP,Systolic Blood Pressure,135,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,11,12,Week 12,DIABP,Diastolic Blood Pressure,84,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-003,12,12,Week 12,PULSE,Pulse Rate,74,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,1,0,Baseline,SYSBP,Systolic Blood Pressure,148,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,2,0,Baseline,DIABP,Diastolic Blood Pressure,92,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,3,0,Baseline,PULSE,Pulse Rate,81,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,4,4,Week 4,SYSBP,Systolic Blood Pressure,147,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,5,4,Week 4,DIABP,Diastolic Blood Pressure,91,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,6,4,Week 4,PULSE,Pulse Rate,80,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,7,8,Week 8,SYSBP,Systolic Blood Pressure,146,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,8,8,Week 8,DIABP,Diastolic Blood Pressure,90,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,9,8,Week 8,PULSE,Pulse Rate,79,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,10,12,Week 12,SYSBP,Systolic Blood Pressure,145,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,11,12,Week 12,DIABP,Diastolic Blood Pressure,89,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-004,12,12,Week 12,PULSE,Pulse Rate,78,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,1,0,Baseline,SYSBP,Systolic Blood Pressure,156,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,2,0,Baseline,DIABP,Diastolic Blood Pressure,95,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,3,0,Baseline,PULSE,Pulse Rate,86,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,4,4,Week 4,SYSBP,Systolic Blood Pressure,143,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,5,4,Week 4,DIABP,Diastolic Blood Pressure,88,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,6,4,Week 4,PULSE,Pulse Rate,80,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,7,8,Week 8,SYSBP,Systolic Blood Pressure,136,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,8,8,Week 8,DIABP,Diastolic Blood Pressure,84,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,9,8,Week 8,PULSE,Pulse Rate,77,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,10,12,Week 12,SYSBP,Systolic Blood Pressure,130,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,11,12,Week 12,DIABP,Diastolic Blood Pressure,82,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-005,12,12,Week 12,PULSE,Pulse Rate,75,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,1,0,Baseline,SYSBP,Systolic Blood Pressure,153,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,2,0,Baseline,DIABP,Diastolic Blood Pressure,97,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,3,0,Baseline,PULSE,Pulse Rate,83,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,4,4,Week 4,SYSBP,Systolic Blood Pressure,152,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,5,4,Week 4,DIABP,Diastolic Blood Pressure,95,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,6,4,Week 4,PULSE,Pulse Rate,82,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,7,8,Week 8,SYSBP,Systolic Blood Pressure,150,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,8,8,Week 8,DIABP,Diastolic Blood Pressure,93,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,9,8,Week 8,PULSE,Pulse Rate,80,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,10,12,Week 12,SYSBP,Systolic Blood Pressure,149,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,11,12,Week 12,DIABP,Diastolic Blood Pressure,92,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-006,12,12,Week 12,PULSE,Pulse Rate,79,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,1,0,Baseline,SYSBP,Systolic Blood Pressure,149,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,2,0,Baseline,DIABP,Diastolic Blood Pressure,93,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,3,0,Baseline,PULSE,Pulse Rate,80,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,4,4,Week 4,SYSBP,Systolic Blood Pressure,140,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,5,4,Week 4,DIABP,Diastolic Blood Pressure,87,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,6,4,Week 4,PULSE,Pulse Rate,77,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,7,8,Week 8,SYSBP,Systolic Blood Pressure,134,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,8,8,Week 8,DIABP,Diastolic Blood Pressure,84,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,9,8,Week 8,PULSE,Pulse Rate,75,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,10,12,Week 12,SYSBP,Systolic Blood Pressure,129,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,11,12,Week 12,DIABP,Diastolic Blood Pressure,81,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-007,12,12,Week 12,PULSE,Pulse Rate,73,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,1,0,Baseline,SYSBP,Systolic Blood Pressure,155,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,2,0,Baseline,DIABP,Diastolic Blood Pressure,96,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,3,0,Baseline,PULSE,Pulse Rate,85,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,4,4,Week 4,SYSBP,Systolic Blood Pressure,154,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,5,4,Week 4,DIABP,Diastolic Blood Pressure,94,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,6,4,Week 4,PULSE,Pulse Rate,83,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,7,8,Week 8,SYSBP,Systolic Blood Pressure,153,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,8,8,Week 8,DIABP,Diastolic Blood Pressure,93,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,9,8,Week 8,PULSE,Pulse Rate,82,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,10,12,Week 12,SYSBP,Systolic Blood Pressure,151,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,11,12,Week 12,DIABP,Diastolic Blood Pressure,91,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-008,12,12,Week 12,PULSE,Pulse Rate,80,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,1,0,Baseline,SYSBP,Systolic Blood Pressure,158,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,2,0,Baseline,DIABP,Diastolic Blood Pressure,99,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,3,0,Baseline,PULSE,Pulse Rate,88,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,4,4,Week 4,SYSBP,Systolic Blood Pressure,145,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,5,4,Week 4,DIABP,Diastolic Blood Pressure,90,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,6,4,Week 4,PULSE,Pulse Rate,81,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,7,8,Week 8,SYSBP,Systolic Blood Pressure,137,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,8,8,Week 8,DIABP,Diastolic Blood Pressure,85,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,9,8,Week 8,PULSE,Pulse Rate,78,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,10,12,Week 12,SYSBP,Systolic Blood Pressure,131,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,11,12,Week 12,DIABP,Diastolic Blood Pressure,82,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-009,12,12,Week 12,PULSE,Pulse Rate,75,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,1,0,Baseline,SYSBP,Systolic Blood Pressure,150,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,2,0,Baseline,DIABP,Diastolic Blood Pressure,94,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,3,0,Baseline,PULSE,Pulse Rate,82,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,4,4,Week 4,SYSBP,Systolic Blood Pressure,149,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,5,4,Week 4,DIABP,Diastolic Blood Pressure,92,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,6,4,Week 4,PULSE,Pulse Rate,81,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,7,8,Week 8,SYSBP,Systolic Blood Pressure,148,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,8,8,Week 8,DIABP,Diastolic Blood Pressure,91,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,9,8,Week 8,PULSE,Pulse Rate,80,beats/min
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,10,12,Week 12,SYSBP,Systolic Blood Pressure,147,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,11,12,Week 12,DIABP,Diastolic Blood Pressure,90,mmHg
+HTN-CDM-001,VS,HTN-CDM-001-SUBJ-010,12,12,Week 12,PULSE,Pulse Rate,79,beats/min
