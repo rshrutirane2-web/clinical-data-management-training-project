@@ -1,10 +1,49 @@
-SourceDomain,SourceVariable,SDTMVariable,SDTMDomain,Purpose
-Subjects,SubjectID,USUBJID,DM,Unique subject identifier
-Subjects,Sex,SEX,DM,Sex
-Subjects,Age,AGE,DM,Age at study entry
-Subjects,Treatment,ARM,DM,Planned treatment arm
-Vitals,SBP_mmHg,VSORRES,VS,Original systolic BP result
-Vitals,DBP_mmHg,VSORRES,VS,Original diastolic BP result; VS test code distinguishes measurement
-Adverse_Events,Term,AETERM,AE,Reported adverse event term
-Adverse_Events,Severity,AESEV,AE,Adverse event severity
-Adverse_Events,Relatedness,AEREL,AE,Relationship to study treatment
+SourceDomain,SourceVariable,SDTMDomain,SDTMVariable,Purpose,Transformation
+Subjects,StudyID,DM,STUDYID,Study identifier,Direct mapping
+Subjects,SubjectID,DM,USUBJID,Unique subject identifier,Concatenate StudyID + '-' + SubjectID
+Subjects,SubjectID,DM,SUBJID,Subject identifier,Direct mapping
+Subjects,Age,DM,AGE,Age at study entry,Direct mapping
+Subjects,Sex,DM,SEX,Standardized sex,Map Female to F and Male to M
+Subjects,Country,DM,COUNTRY,Country code,Map India to IND
+Subjects,Treatment,DM,ARM,Planned treatment arm,Direct mapping
+Subjects,Treatment,DM,ACTARM,Actual treatment arm in training dataset,Direct mapping
+Subjects,ConsentDate,DM,RFICDTC,Informed consent date,Direct mapping in ISO 8601 format
+Subjects,RandomizationDate,DM,,Randomization date retained in raw data but not directly mapped to a DM variable in this training dataset,No direct DM mapping
+Subjects,Status,DM,,Subject status retained in raw data but not directly mapped to a DM variable in this training dataset,No direct DM mapping
+Vitals,SubjectID,VS,USUBJID,Unique subject identifier,Concatenate StudyID + '-' + SubjectID
+Vitals,Visit,VS,VISIT,Study visit,Direct mapping
+Vitals,Visit,VS,VISITNUM,Numeric visit number,Derive Baseline=0 Week 4=4 Week 8=8 Week 12=12
+Vitals,SBP_mmHg,VS,VSTESTCD,Systolic blood pressure test code,Derive SYSBP
+Vitals,SBP_mmHg,VS,VSTEST,Systolic blood pressure test name,Derive Systolic Blood Pressure
+Vitals,SBP_mmHg,VS,VSORRES,Original systolic blood pressure result,Direct mapping
+Vitals,SBP_mmHg,VS,VSORRESU,Systolic blood pressure unit,Derive mmHg from source variable name
+Vitals,DBP_mmHg,VS,VSTESTCD,Diastolic blood pressure test code,Derive DIABP
+Vitals,DBP_mmHg,VS,VSTEST,Diastolic blood pressure test name,Derive Diastolic Blood Pressure
+Vitals,DBP_mmHg,VS,VSORRES,Original diastolic blood pressure result,Direct mapping
+Vitals,DBP_mmHg,VS,VSORRESU,Diastolic blood pressure unit,Derive mmHg from source variable name
+Vitals,Pulse_bpm,VS,VSTESTCD,Pulse test code,Derive PULSE
+Vitals,Pulse_bpm,VS,VSTEST,Pulse test name,Derive Pulse Rate
+Vitals,Pulse_bpm,VS,VSORRES,Original pulse result,Direct mapping
+Vitals,Pulse_bpm,VS,VSORRESU,Pulse unit,Derive beats/min from source variable name
+Labs,SubjectID,LB,USUBJID,Unique subject identifier,Concatenate StudyID + '-' + SubjectID
+Labs,Visit,LB,VISIT,Study visit,Direct mapping
+Labs,ALT_U_L,LB,LBTESTCD,Alanine aminotransferase test code,Derive ALT
+Labs,ALT_U_L,LB,LBTEST,Alanine aminotransferase test name,Derive Alanine Aminotransferase
+Labs,ALT_U_L,LB,LBORRES,Original ALT result,Direct mapping
+Labs,ALT_U_L,LB,LBORRESU,ALT unit,Derive U/L from source variable name
+Labs,Creatinine_mg_dL,LB,LBTESTCD,Creatinine test code,Derive CREAT
+Labs,Creatinine_mg_dL,LB,LBTEST,Creatinine test name,Derive Creatinine
+Labs,Creatinine_mg_dL,LB,LBORRES,Original creatinine result,Direct mapping
+Labs,Creatinine_mg_dL,LB,LBORRESU,Creatinine unit,Derive mg/dL from source variable name
+Labs,Hemoglobin_g_dL,LB,LBTESTCD,Hemoglobin test code,Derive HGB
+Labs,Hemoglobin_g_dL,LB,LBTEST,Hemoglobin test name,Derive Hemoglobin
+Labs,Hemoglobin_g_dL,LB,LBORRES,Original hemoglobin result,Direct mapping
+Labs,Hemoglobin_g_dL,LB,LBORRESU,Hemoglobin unit,Derive g/dL from source variable name
+Adverse_Events,SubjectID,AE,USUBJID,Unique subject identifier,Concatenate StudyID + '-' + SubjectID
+Adverse_Events,AEID,AE,AESEQ,Adverse event sequence number,Derive sequential number within subject
+Adverse_Events,Term,AE,AETERM,Reported adverse event term,Direct mapping
+Adverse_Events,StartDate,AE,AESTDTC,Adverse event start date,Direct mapping in ISO 8601 format
+Adverse_Events,EndDate,AE,AEENDTC,Adverse event end date,Direct mapping in ISO 8601 format; blank for ongoing event
+Adverse_Events,Severity,AE,AESEV,Adverse event severity,Direct mapping using controlled terminology
+Adverse_Events,Relatedness,AE,AEREL,Relationship to study treatment,Direct mapping using controlled terminology
+Adverse_Events,Outcome,AE,AEOUT,Adverse event outcome,Direct mapping using controlled terminology
