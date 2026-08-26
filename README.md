@@ -1,59 +1,59 @@
-# Clinical Data Management Training Project — HTN-CDM-001
+# Clinical Data Management Training Project
 
-A **simulated Clinical Data Management (CDM) portfolio project** designed for a pharmacy/clinical-research fresher.
+A simulated **Phase III Hypertension clinical trial** demonstrating the complete Clinical Data Management (CDM) workflow from protocol review to SDTM mapping and SQL validation.
 
-> **Important:** All clinical data in this repository is fictional and created for educational practice. It is not real patient data, sponsor data, or production clinical-trial data.
+## Study Overview
 
-## Study
+| Item                 | Details                           |
+| -------------------- | --------------------------------- |
+| **Study ID**         | HTN-CDM-001                       |
+| **Therapeutic Area** | Hypertension                      |
+| **Subjects**         | 10                                |
+| **Visits**           | Baseline, Week 4, Week 8, Week 12 |
+| **Domains**          | DM, VS, LB, AE                    |
 
-**Phase III randomized, double-blind, placebo-controlled hypertension study** comparing fictional CardioPress 10 mg with placebo over 12 weeks.
+## Project Workflow
 
-### Primary endpoint
-Change in seated systolic blood pressure (SBP) from baseline to Week 12.
+* Protocol Review
+* CRF Review
+* Raw Data Validation
+* Query Management
+* Edit Check Validation
+* Data Cleaning
+* Database Lock
+* SDTM Mapping
+* SQL Validation
 
-## CDM skills practiced
-
-- Protocol review
-- CRF design/specification
-- Clinical data review
-- Data cleaning
-- Edit-check design
-- Data query management
-- Basic SQL
-- SDTM mapping concepts
-- Safety-data review/reconciliation
-- Database-lock readiness
-
-## Repository structure
+## Repository Structure
 
 ```text
-01_Protocol/        Protocol synopsis
-02_CRFS/            CRF specification
-03_Raw_Data/        Fictional clinical datasets
-04_Data_Cleaning/   Data-cleaning log
-05_Edit_Checks/     Edit-check matrix
-06_Queries/         Query-management log
-07_SQL/             SQL exercises
-08_SDTM/            SDTM mapping exercise
-09_Analysis/        SBP analysis
-10_Database_Lock/   Database-lock checklist
+01_Protocol
+02_CRF
+03_Raw_Data
+04_Query_Management
+05_Edit_Checks
+06_Data_Cleaning
+07_Database_Lock
+08_SDTM
+09_SQL_Validation
 ```
 
-## How to complete the project
+## Skills Demonstrated
 
-1. Read the protocol summary.
-2. Review the raw datasets without assuming that every record is correct.
-3. Identify data-quality issues.
-4. Create and justify edit checks.
-5. Raise appropriate data queries.
-6. Perform the SBP analysis.
-7. Run/practice the SQL queries in a local SQL environment.
-8. Review the SDTM mapping.
-9. Complete the database-lock checklist.
-10. Write a final CDM status report.
+* Clinical Data Management
+* SDTM Mapping (DM, VS, LB, AE)
+* Query Writing
+* Edit Check Design
+* Microsoft Excel
+* SQL Basics
+* GitHub Documentation
 
-## Suggested portfolio/CV wording
+## QC Summary
 
-> **Clinical Data Management Project — Simulated Phase III Clinical Trial:** Performed CRF specification, data-quality review, edit-check design, query management, basic SQL analysis, SDTM mapping and database-lock readiness activities using fictional clinical-trial data.
-
-Do **not** describe this as employment, an internship with a CRO/sponsor, or work on real patient data.
+| Domain         | Status    |
+| -------------- | --------- |
+| DM             | PASS      |
+| VS             | PASS      |
+| LB             | PASS      |
+| AE             | PASS      |
+| SQL Validation | Completed |
