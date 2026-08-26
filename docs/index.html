@@ -1,34 +1,105 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Clinical Data Management Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Clinical Data Management portfolio for simulated Phase III hypertension trial HTN-CDM-001.">
+  <title>Clinical Data Management Portfolio | HTN-CDM-001</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-<body style="font-family:Arial; text-align:center; background:#f4f8fc;">
+<body>
+<header class="nav">
+  <div class="container nav-inner">
+    <a class="brand" href="#top">CDM Portfolio</a>
+    <nav class="nav-links">
+      <a href="#overview">Overview</a><a href="#workflow">Workflow</a><a href="#skills">Skills</a><a href="#results">Results</a><a href="#files">Project Files</a>
+    </nav>
+  </div>
+</header>
 
-  <h1>Clinical Data Management Project</h1>
-  <h2>HTN-CDM-001</h2>
+<main id="top">
+<section class="hero">
+  <div class="container">
+    <span class="eyebrow">Clinical Data Management • Training Project</span>
+    <h1>Phase III <span>Hypertension</span><br>Clinical Trial</h1>
+    <p class="subtitle">A simulated end-to-end Clinical Data Management project demonstrating data collection, validation, cleaning, SDTM mapping and SQL-based quality checks.</p>
+    <div class="hero-meta"><span class="pill">Study ID: HTN-CDM-001</span><span class="pill">Therapeutic Area: Hypertension</span><span class="pill">Domains: DM • VS • LB • AE</span></div>
+  </div>
+</section>
 
-  <p>Phase III Hypertension Clinical Trial</p>
+<section class="container stats" aria-label="Study statistics">
+  <div class="stat"><strong>10</strong><span>Subjects</span></div>
+  <div class="stat"><strong>4</strong><span>Study Visits</span></div>
+  <div class="stat"><strong>4</strong><span>SDTM Domains</span></div>
+  <div class="stat"><strong>10</strong><span>Edit Checks</span></div>
+</section>
 
-  <hr>
+<section id="overview" class="section">
+  <div class="container">
+    <h2>Study Overview</h2>
+    <p class="section-intro">The training dataset follows 10 randomized subjects across Baseline, Week 4, Week 8 and Week 12, with demographics, vital signs, laboratory data and adverse events.</p>
+    <div class="grid">
+      <article class="card"><div class="icon">📋</div><h3>Study Design</h3><p>Simulated Phase III hypertension study with CardioPress and Placebo treatment arms.</p></article>
+      <article class="card"><div class="icon">🧾</div><h3>Data Collection</h3><p>Subject-level demographics plus repeated vital signs and laboratory assessments.</p></article>
+      <article class="card"><div class="icon">⚠️</div><h3>Safety Data</h3><p>Five adverse-event records covering term, severity, relatedness and outcome.</p></article>
+    </div>
+  </div>
+</section>
 
-  <h3>Study Summary</h3>
+<section id="workflow" class="section alt">
+  <div class="container">
+    <h2>CDM Workflow</h2>
+    <p class="section-intro">The project demonstrates the major activities performed during a clinical data management lifecycle.</p>
+    <div class="workflow">
+      <div class="step">Protocol Review</div><div class="step">CRF Review</div><div class="step">Raw Data Validation</div>
+      <div class="step">Query Management</div><div class="step">Edit Check Validation</div><div class="step">Data Cleaning</div>
+      <div class="step">Database Lock</div><div class="step">SDTM Mapping</div><div class="step">SQL Validation</div>
+    </div>
+  </div>
+</section>
 
-  <p><b>Subjects:</b> 10</p>
-  <p><b>Visits:</b> Baseline, Week 4, Week 8, Week 12</p>
-  <p><b>Domains:</b> DM, VS, LB, AE</p>
+<section id="skills" class="section">
+  <div class="container">
+    <h2>Skills Demonstrated</h2>
+    <p class="section-intro">Practical skills represented through the project artifacts and validation workflow.</p>
+    <div class="grid">
+      <article class="card"><div class="icon">🔬</div><h3>Clinical Data Management</h3><p>Protocol/CRF review, data review, edit checks, query concepts and database quality control.</p></article>
+      <article class="card"><div class="icon">🗂️</div><h3>SDTM Mapping</h3><p>DM, VS, LB and AE mapping with controlled terminology, derivations and ISO 8601 dates.</p></article>
+      <article class="card"><div class="icon">💻</div><h3>SQL Validation</h3><p>Queries for age checks, ongoing AEs, missing Week 12 vital signs and domain record counts.</p></article>
+    </div>
+  </div>
+</section>
 
-  <hr>
+<section id="results" class="section alt">
+  <div class="container">
+    <h2>Project Results & QC</h2>
+    <p class="section-intro">Results shown here are based on the actual files currently stored in the repository.</p>
+    <div class="results">
+      <div class="result"><span class="tag">PASS</span><strong>DM Domain</strong><br>10 subject records mapped to SDTM DM.</div>
+      <div class="result"><span class="tag">PASS</span><strong>VS Domain</strong><br>10 subjects × 4 visits × 3 measurements = 120 records.</div>
+      <div class="result"><span class="tag">PASS</span><strong>LB Domain</strong><br>10 subjects × 2 visits × 3 tests = 60 records.</div>
+      <div class="result"><span class="tag">COMPLETED</span><strong>AE Domain</strong><br>5 adverse-event records, including 1 ongoing event.</div>
+    </div>
+  </div>
+</section>
 
-  <h3>Workflow</h3>
+<section id="files" class="section">
+  <div class="container">
+    <h2>Explore the Project Files</h2>
+    <p class="section-intro">Open the underlying artifacts to inspect the data and validation work.</p>
+    <div class="links">
+      <a class="button" href="https://github.com/rshrutirane2-web/clinical-data-management-training-project">View GitHub Repository</a>
+      <a class="button secondary" href="https://github.com/rshrutirane2-web/clinical-data-management-training-project/tree/main/03_Raw_Data">Raw Data</a>
+      <a class="button secondary" href="https://github.com/rshrutirane2-web/clinical-data-management-training-project/blob/main/05_Edit_Checks/edit_check_matrix.csv">Edit Check Matrix</a>
+      <a class="button secondary" href="https://github.com/rshrutirane2-web/clinical-data-management-training-project/tree/main/08_SDTM">SDTM Data & Mapping</a>
+      <a class="button secondary" href="https://github.com/rshrutirane2-web/clinical-data-management-training-project/blob/main/09_SQL_Validation/sql_queries.sql">SQL Validation</a>
+    </div>
+  </div>
+</section>
+</main>
 
-  <p>Protocol Review</p>
-  <p>CRF Review</p>
-  <p>Raw Data Validation</p>
-  <p>Query Management</p>
-  <p>Edit Checks</p>
-  <p>SDTM Mapping</p>
-  <p>SQL Validation</p>
-
+<footer class="footer">
+  <div class="container"><strong>HTN-CDM-001</strong><br><span class="small">Simulated training project • Clinical Data Management portfolio</span></div>
+</footer>
 </body>
 </html>
